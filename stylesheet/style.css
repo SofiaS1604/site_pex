@@ -256,6 +256,7 @@ button{
     color: rgb(231, 82, 107);
     border-radius: 30px;
     align-self: center;
+    border: 0;
 }
 
 .main__about{
